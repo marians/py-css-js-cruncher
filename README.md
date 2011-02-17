@@ -20,7 +20,7 @@ However, during development there might be lots of good reasons to work with the
 original JavaScript/CSS files, neither minified nor combined.
 
 So in order to make it easy to create combined/minified files fast and easy, I
-created this tool. If you have a command line open, it should make crteating new CSS
+created this tool. If you have a command line open, it should make creating new CSS
 and JS files for your app a matter of seconds.
 
 
