@@ -11,6 +11,11 @@ You might have heard that, when it comes to web page/app load times, every
 request counts. And by combining files, you can save requests. And once you
 combine your files, you can as well minify them to make the download even faster.
 
+If you want to find out more, read about the details here:
+
+* [http://code.google.com/intl/de/speed/page-speed/docs/rtt.html](http://code.google.com/intl/de/speed/page-speed/docs/rtt.html)
+* [http://developer.yahoo.com/performance/rules.html](http://developer.yahoo.com/performance/rules.html)
+
 Prerequisites
 -------------
 
