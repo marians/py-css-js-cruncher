@@ -16,6 +16,14 @@ If you want to find out more, read about the details here:
 * [http://code.google.com/intl/de/speed/page-speed/docs/rtt.html](http://code.google.com/intl/de/speed/page-speed/docs/rtt.html)
 * [http://developer.yahoo.com/performance/rules.html](http://developer.yahoo.com/performance/rules.html)
 
+However, during development there might be lots of good reasons to work with the
+original JavaScript/CSS files, neither minified nor combined.
+
+So in order to make it easy to create combined/minified files fast and easy, I
+created this tool. If you have a command line open, it should make crteating new CSS
+and JS files for your app a matter of seconds.
+
+
 Prerequisites
 -------------
 
